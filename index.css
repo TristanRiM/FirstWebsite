@@ -1,0 +1,13 @@
+.project {
+    background-color: red;
+    border-color: yellow;
+    border-style: solid;
+    padding: 30px;
+    margin: 15px;
+}
+
+#mywebsite {
+    font-size: 30px;
+    color: purple;
+    font-weight: 400;
+}
